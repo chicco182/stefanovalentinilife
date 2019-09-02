@@ -2,7 +2,10 @@
 title: Home
 sections:
   - component: HeroBlock
-    content: '# Stefano Valentini'
+    content: |-
+      # Stefano Valentini
+
+      ## Computer Engineer
     section_id: hero
     title: ''
     type: heroblock
