@@ -1,28 +1,28 @@
 {
-    "links": [
-        {
-            "type": "twitter",
-            "title": "Twitter",
-            "icon": "fa-twitter",
-            "url": "https://twitter.com/"
-        },
-        {
-            "type": "instagram",
-            "title": "Instagram",
-            "icon": "fa-instagram",
-            "url": "https://www.instagram.com/"
-        },
-        {
-            "type": "dribbble",
-            "title": "Dribbble",
-            "icon": "fa-dribbble",
-            "url": "https://dribbble.com/"
-        },
-        {
-            "type": "linkedin",
-            "title": "LinkedIn",
-            "icon": "fa-linkedin",
-            "url": "https://www.linkedin.com/"
-        }
-    ]
+  "links": [
+    {
+      "type": "twitter",
+      "title": "Twitter",
+      "icon": "fa-twitter",
+      "url": "https://twitter.com/Valentini1982"
+    },
+    {
+      "type": "instagram",
+      "title": "Instagram",
+      "icon": "fa-instagram",
+      "url": "https://www.instagram.com/stefanovalentini82/"
+    },
+    {
+      "type": "dribbble",
+      "title": "GitHub",
+      "icon": "fa-github",
+      "url": "https://github.com/chicco182/"
+    },
+    {
+      "type": "linkedin",
+      "title": "LinkedIn",
+      "icon": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/stefanovalentini82"
+    }
+  ]
 }
