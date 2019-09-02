@@ -20,8 +20,8 @@ sections:
     view_all_url: portfolio/index.html
   - component: ContactBlock
     section_id: contact
-    subtitle: An optional subtitle of the section
-    title: Contact Us
+    subtitle: 'Scrivetemi per info, idee o collaborazioni'
+    title: Contattami
     type: contactblock
 menus:
   main:
